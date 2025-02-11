@@ -31,14 +31,16 @@
 </ul>
 
 ## Contact  
-
-<p align="left">
-  <a href="https://ddoit.hashnode.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-2962FF?style=flat-square&logo=hashnode&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/두희-김-939061270" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
+<ul>
+  <li>
+    <p align="left">
+      <a href="https://ddoit.hashnode.dev/" target="_blank">
+        <img src="https://img.shields.io/badge/Blog-2962FF?style=flat-square&logo=hashnode&logoColor=white"/>
+      </a>
+      <a href="https://www.linkedin.com/in/두희-김-939061270" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+      </a>
+    </p>
+  </li>
+</ul>
 
