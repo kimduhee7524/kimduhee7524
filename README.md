@@ -1,6 +1,6 @@
 ## 김두희 | Frontend Developer
 
-## 🛠 Skills  
+## Skills  
 <ul>
   <li>
     <p align="left">
@@ -30,7 +30,7 @@
   </li>
 </ul>
 
-## 📬 Contact  
+## Contact  
 
 <p align="left">
   <a href="https://ddoit.hashnode.dev/" target="_blank">
